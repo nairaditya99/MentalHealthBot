@@ -51,7 +51,7 @@ def ask_ai(user_input):
     response = index.query(user_input, response_mode='compact')
     return response
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 
 construct_index("data")
 

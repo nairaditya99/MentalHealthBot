@@ -1,4 +1,0 @@
-langchain
-gpt_index
-streamlit-chat
-streamlit
